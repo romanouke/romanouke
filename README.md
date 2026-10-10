@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00C9A7,100:2F80ED&section=header" alt="Decorative wave header" />
-
 <div align="center">
 
 # Hi, I'm Roma Nouke Frets Mantiri 👋
@@ -131,5 +129,3 @@ I'm always interested in learning, collaborating, and building useful technology
 *“Build with curiosity. Learn continuously. Create technology that matters.”*
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2F80ED,100:00C9A7&section=footer" alt="Decorative wave footer" />
